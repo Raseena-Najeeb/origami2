@@ -1,0 +1,8 @@
+h1{
+    color : rgb(145, 3, 3,0.95);
+    }
+    .Origami{
+        background-color: rgb(133, 148, 235,0.4);
+        display : flex;
+        justify-content: space-between
+    }
